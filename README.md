@@ -1,4 +1,6 @@
-# vue-todo
+# Simple Vue Todo
+
+Live site: https://vue-todo.willgardner9.vercel.app/
 
 ## Project setup
 ```
